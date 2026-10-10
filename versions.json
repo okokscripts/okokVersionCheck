@@ -6,7 +6,7 @@
     },
     {
         "script": "okokBilling",
-        "version": "1.0.1",
+        "version": "1.0.0",
         "notes": "Asset Release"
     }
 ]
